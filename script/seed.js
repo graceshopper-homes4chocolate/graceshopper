@@ -78,7 +78,7 @@ async function seed() {
       imageUrl:
         'https://images.unsplash.com/photo-1541274387095-12117e6099dc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=401&q=80',
       status: 'Available',
-      inventory: 1
+      inventory: 1000
     }),
     Home.create({
       description:
@@ -88,7 +88,7 @@ async function seed() {
       imageUrl:
         'https://images.unsplash.com/photo-1505901889250-5cd7cd813691?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80',
       status: 'Available',
-      inventory: 1
+      inventory: 1000
     }),
     Home.create({
       description:
@@ -98,7 +98,7 @@ async function seed() {
       imageUrl:
         'https://images.unsplash.com/photo-1533889047878-f68872f7ffef?ixlib=rb-1.2.1&auto=format&fit=crop&w=824&q=80',
       status: 'Available',
-      inventory: 1
+      inventory: 1000
     }),
     Home.create({
       description:
@@ -108,7 +108,7 @@ async function seed() {
       imageUrl:
         'https://images.unsplash.com/photo-1603719846095-12a6cdffdcd7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=560&q=80',
       status: 'Available',
-      inventory: 1
+      inventory: 1000
     }),
     Home.create({
       description:
@@ -118,7 +118,7 @@ async function seed() {
       imageUrl:
         'https://images.unsplash.com/photo-1560298379-40e8c327303c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80',
       status: 'Available',
-      inventory: 1
+      inventory: 1000
     }),
     Home.create({
       description:
@@ -128,7 +128,7 @@ async function seed() {
       imageUrl:
         'https://www.dailydot.com/wp-content/uploads/9f4/0b/0432745ad465a0810930e42bc72e5c22-768x384.jpg',
       status: 'Available',
-      inventory: 1
+      inventory: 1000
     }),
     Home.create({
       description:
@@ -138,7 +138,7 @@ async function seed() {
       imageUrl:
         'https://theluxuryspot.com/wp-content/uploads/2011/10/Haunted_House_by_AreYoU.jpg',
       status: 'Available',
-      inventory: 1
+      inventory: 1000
     }),
     Home.create({
       description:
@@ -148,7 +148,7 @@ async function seed() {
       imageUrl:
         'https://images.unsplash.com/photo-1567865231305-b15ea6b40299?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=889&q=80',
       status: 'Available',
-      inventory: 1
+      inventory: 1000
     }),
     Home.create({
       description:
@@ -158,7 +158,7 @@ async function seed() {
       imageUrl:
         'https://images.unsplash.com/photo-1508330570239-ce7cabceee22?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=856&q=80',
       status: 'Available',
-      inventory: 1
+      inventory: 1000
     }),
     Home.create({
       description:
@@ -168,7 +168,7 @@ async function seed() {
       imageUrl:
         'https://images.unsplash.com/photo-1513584684374-8bab748fbf90?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=746&q=80',
       status: 'Available',
-      inventory: 1
+      inventory: 1000
     }),
     Home.create({
       description:
@@ -178,7 +178,7 @@ async function seed() {
       imageUrl:
         'https://images.unsplash.com/photo-1510798831971-661eb04b3739?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80',
       status: 'Available',
-      inventory: 1
+      inventory: 1000
     }),
     Home.create({
       description:
@@ -188,7 +188,7 @@ async function seed() {
       imageUrl:
         'https://images.unsplash.com/photo-1548795179-8bfc5c1ebb24?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80',
       status: 'Available',
-      inventory: 1
+      inventory: 1000
     })
   ])
 
